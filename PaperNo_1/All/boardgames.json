@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "gameTitle": "Catan",
+    "gameImage": "https://cf.geekdo-images.com/_82k0XUTLdx15kqgoPrxrQ__imagepage/img/KSOrSzkY5EJOLQd63f8j_1-TsZg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic268839.jpg",
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "playTime": 90,
+    "isPlayed": false,
+    "complexity": "Medium"
+  },
+  {
+    "id": "2",
+    "gameTitle": "Azul",
+    "gameImage": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__imagepagezoom/img/6wgWGieOK0vwdjJq3jsViDnuUq4=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6973671.png",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playTime": 45,
+    "isPlayed": false,
+    "complexity": "Easy"
+  },
+  {
+    "id": "3",
+    "gameTitle": "SPLENDOR",
+    "gameImage": "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__imagepagezoom/img/JPxdhNZtNXvRITwXjYqHuR9Q48U=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic8234167.png",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playTime": 30,
+    "isPlayed": true,
+    "complexity": "Easy"
+  },
+  {
+    "id": "4",
+    "gameTitle": "CARCASSONNE",
+    "gameImage": "https://cf.geekdo-images.com/9E3n5SxxXKiUdRUw03EVvQ__imagepagezoom/img/yajKFnkvpChWSuU3upUkJEowufI=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic166867.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "playTime": 35,
+    "isPlayed": true,
+    "complexity": "Easy"
+  },
+  {
+    "id": "5",
+    "gameTitle": "TICKET TO RIDE",
+    "gameImage": "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__imagepagezoom/img/Kel4VmZWFylwtTHgl-11A05Q6mk=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic38668.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "playTime": 60,
+    "isPlayed": true,
+    "complexity": "Medium"
+  },
+  {
+    "id": "6",
+    "gameTitle": "7 Wonders",
+    "gameImage": "https://cf.geekdo-images.com/RvFVTEpnbb4NM7k0IF8V7A__imagepagezoom/img/3HZr94HfahvgdSZZrZ6sSOTP0Ps=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic860217.jpg",
+    "minPlayers": 3,
+    "maxPlayers": 7,
+    "playTime": 40,
+    "isPlayed": false,
+    "complexity": "Medium"
+  },
+  {
+    "id": "7",
+    "gameTitle": "Pandemic",
+    "gameImage": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__imagepagezoom/img/pD92VJE3Eq9meWfJ6g1pfssPhTA=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic1534148.jpg",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playTime": 45,
+    "isPlayed": false,
+    "complexity": "Medium"
+  },
+  {
+    "id": "8",
+    "gameTitle": "Terraforming Mars",
+    "gameImage": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__imagepagezoom/img/UeplWD4wDPCq6MB3n4V9NSQvVIk=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3536616.jpg",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "playTime": 120,
+    "isPlayed": false,
+    "complexity": "Hard"
+  },
+  {
+    "id": "9",
+    "gameTitle": "GLOOMHAVEN",
+    "gameImage": "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__imagepage/img/pBaOL7vV402nn1I5dHsdSKsFHqA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2437871.jpg",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "playTime": 150,
+    "isPlayed": true,
+    "complexity": "Hard"
+  },
+  {
+    "id": "10",
+    "gameTitle": "Wingspan",
+    "gameImage": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "playTime": 70,
+    "isPlayed": false,
+    "complexity": "Medium"
+  }
+]
